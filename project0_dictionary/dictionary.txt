@@ -1,0 +1,5 @@
+apple:سیب
+banana:موز
+computer:کامپیوتر
+book:کتاب
+python:پایتون
